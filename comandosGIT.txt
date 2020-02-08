@@ -1,0 +1,35 @@
+Baixar o software git 
+
+criar um repositorio no git 
+
+abrir o git no bash do computador 
+
+DEFINIR UMA PASTA ADEQUADA NO COMPUTADOR 
+
+
+dar o comando 
+>> git clone https://github.com/andrecc/calculoNumerico.git
+
+difinir um e-mail 
+>> git config --global user.email "andrecarloscontini@gmail.com"
+
+definir um nome de usuario 
+>> $ git config --global user.name "andrecc"
+
+adicionar arquivo 
+>> git add README.md
+
+Que alteracao voce deseja fazer 
+>> git commit -m "arquivo readme"
+
+mandar o arquivo para o Git 
+>> git push origin master
+
+adicionar arquivos 
+>> git add . 
+
+Que alteracao fez
+>> git commit -m "subindo soma"
+
+mandar o arquivo para o Git 
+>> git push origin master
